@@ -64,5 +64,4 @@
 <img src="https://i.ibb.co/qRxV2fK/download.png" alt="vscode" width="40" height="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilva2020" alt="Nilva-Pires" /> </p>
-
-⭐baseado em Strongreen.
+⭐baseado em  Hérica Strongreen.
