@@ -16,14 +16,14 @@
 
 
 <p align="left">
-  Eu sou Nilva Pires, tenho 49 anos, apaixonada pela área tecnológica principalmente o desenvolvimento.<br />
+  Eu sou Nilva Pires, tenho 50 anos, apaixonada pela área tecnológica principalmente o desenvolvimento.<br />
   Sou mãe de uma linda menina chamada Mel.</br>
   Moro em Belo Horizonte-Mg<br />
   Dentro dos meus interesses está a Inteligência Artificial aplicada a Medicina.<br />
 </p></br>
 <p align="left"> <b>O  que   estou  fazendo </p>
-  * Escrevendo um livro, linguagem Python voltado para o público infantil. 
-  * Desenvolvendo um Chatbot com NLU.</p><br />
+  * Escrevendo um livro para o público infantil utilizando a linguagem Python.  
+  * Estou no projeto da REPROGRAMA - Back-End.</p><br />
 
 <p align="left" > <b> Sobre HARDSKILLS</b>.</p>
 <p align="left" >👩🏻‍🎓 Graduações: Administração de Empresa & Análise e Desenvolvimento de Sistema<br />
@@ -31,7 +31,7 @@
 <p align="left" >O que estou cursando 📚:</p>
 <p align="left" >
 <ul>
-  <li>Ciência da Computação - 3 semestre- Estácio.</li>
+  <li>Ciência da Computação - 5° semestre- Estácio.</li>
   <li>Inteligência Artificial aplicado a Medicina - Data Science Academy; </li>
   <li>Python - Data Science Academy;</li>
   <li>Php - B7Web;</li>
