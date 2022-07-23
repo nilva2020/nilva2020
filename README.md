@@ -37,9 +37,10 @@
   <li>Php - B7Web;</li>
   <li>Analista Desenvolvedor Java - Softblue;</li>
   <li>Desenvolvimento Frontend, Backend, Mobile - B7Web;</li>
+  <li>Desenvolvimento Backend NodeJS  {Reprograma}</>
   <li>Javascript - B7Web;</li>
   <li>NodeJs- B7Web;</li>
- </ul></p></br>
+  </ul></p></br>
 
 <p align="left" >🚀 Participei do Bootcamp da Letsbot:<ul>
   <li>🤖 Desenvolvimento de Chatbot com NLU,utilizando a plataforma ALTU; </li>
