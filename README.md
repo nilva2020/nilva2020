@@ -16,14 +16,15 @@
 
 
 <p align="left">
-  Eu sou Nilva Pires, tenho 50 anos, apaixonada pela área tecnológica principalmente o desenvolvimento.<br />
+  Eu sou Nilva Pires Analista de Sistema & Desenvolvedora Backend {Reprograma}, apaixonada pela área tecnológica principalmente o desenvolvimento.<br />
   Sou mãe de uma linda menina chamada Mel.</br>
   Moro em Belo Horizonte-Mg<br />
-  Dentro dos meus interesses está a Inteligência Artificial aplicada a Medicina.<br />
+  Dentro dos meus interesses está a Inteligência Artificial.<br />
 </p></br>
 <p align="left"> <b>O  que   estou  fazendo </p>
+  * Educadora Inclusão Digital para o público 60 anos+
   * Escrevendo um livro para o público infantil utilizando a linguagem Python.  
-  * Estou no projeto da REPROGRAMA - Back-End.</p><br />
+  * Estou aperfeiçoando os meus conhecimentos com a DevMedia & DataScienceAcademy</p><br />
 
 <p align="left" > <b> Sobre HARDSKILLS</b>.</p>
 <p align="left" >👩🏻‍🎓 Graduações: Administração de Empresa & Análise e Desenvolvimento de Sistema<br />
@@ -32,17 +33,18 @@
 <p align="left" >
 <ul>
   <li>Ciência da Computação - 5° semestre- Estácio.</li>
-  <li>Inteligência Artificial aplicado a Medicina - Data Science Academy; </li>
+  <li>Inteligência Artificial - Data Science Academy; </li>
   <li>Python - Data Science Academy;</li>
   <li>Php - B7Web;</li>
   <li>Analista Desenvolvedor Java - Softblue;</li>
   <li>Desenvolvimento Frontend, Backend, Mobile - B7Web;</li>
-  <li>Desenvolvimento Backend NodeJS  {Reprograma}</>
+  <li>Desenvolvimento Full-Stack DevMedia</>
   <li>Javascript - B7Web;</li>
   <li>NodeJs- B7Web;</li>
   </ul></p></br>
 
 <p align="left" >🚀 Participei do Bootcamp da Letsbot:<ul>
+  <li> Todas em Tech Desenvolvedora Back-End da {REPROGRAMA} Desenvolvi a minha primeira API utilizando Nodejs</li>
   <li>🤖 Desenvolvimento de Chatbot com NLU,utilizando a plataforma ALTU; </li>
   </ul></p>
 <hr />
@@ -53,6 +55,9 @@
 **Linguagens e ferramentas:**  
 
 <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="heroku" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
