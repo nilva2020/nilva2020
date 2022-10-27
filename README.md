@@ -22,16 +22,17 @@
   Dentro dos meus interesses está a Inteligência Artificial.<br />
 </p></br>
 <p align="left"> <b>O  que   estou  fazendo </p>
-  * Educadora Inclusão Digital para o público 60 anos+
-  * Escrevendo um livro para o público infantil utilizando a linguagem Python.  
-  * Educadora Oficina de Robótica para o publico 6ano à 12 anos.
-
+  <li> Educadora Inclusão Digital para o público 60 anos+ </li>
+  <li> Educadora Oficina de Robótica para o publico 6anos à 12 anos.</li>
+  <li> Escrevendo um livro para o público infantil utilizando a linguagem Python.  </li>
+  
+  
 </p><br />
 
 <p align="left" > <b> Sobre HARDSKILLS</b>.</p>
 <p align="left" >👩🏻‍🎓 Graduações: Administração de Empresa & Análise e Desenvolvimento de Sistema<br />
    
-<p align="left" >O que estou cursando 📚:</p>
+<p align="left" >O que estou estudando 📚:</p>
 <p align="left" >
 <ul>
   <li>Ciência da Computação - 5° semestre- Estácio.</li>
@@ -42,8 +43,11 @@
 </ul></p></br>
 
 <p align="left" >🚀 Participei do Bootcamp da Letsbot:<ul>
+  
   <li> Todas em Tech Desenvolvedora Back-End da {REPROGRAMA} Desenvolvi a minha primeira API utilizando Nodejs</li>
+  
   <li>🤖 Desenvolvimento de Chatbot com NLU,utilizando a plataforma ALTU; </li>
+  
   </ul></p>
 <hr />
 
