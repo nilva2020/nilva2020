@@ -24,7 +24,9 @@
 <p align="left"> <b>O  que   estou  fazendo </p>
   * Educadora Inclusão Digital para o público 60 anos+
   * Escrevendo um livro para o público infantil utilizando a linguagem Python.  
-  * Estou aperfeiçoando os meus conhecimentos com a DevMedia & DataScienceAcademy</p><br />
+  * Educadora Oficina de Robótica para o publico 6ano à 12 anos.
+
+</p><br />
 
 <p align="left" > <b> Sobre HARDSKILLS</b>.</p>
 <p align="left" >👩🏻‍🎓 Graduações: Administração de Empresa & Análise e Desenvolvimento de Sistema<br />
@@ -34,14 +36,10 @@
 <ul>
   <li>Ciência da Computação - 5° semestre- Estácio.</li>
   <li>Inteligência Artificial - Data Science Academy; </li>
+  <li>Data Science - Digital House; </li>
   <li>Python - Data Science Academy;</li>
-  <li>Php - B7Web;</li>
-  <li>Analista Desenvolvedor Java - Softblue;</li>
-  <li>Desenvolvimento Frontend, Backend, Mobile - B7Web;</li>
-  <li>Desenvolvimento Full-Stack DevMedia</>
-  <li>Javascript - B7Web;</li>
-  <li>NodeJs- B7Web;</li>
-  </ul></p></br>
+
+</ul></p></br>
 
 <p align="left" >🚀 Participei do Bootcamp da Letsbot:<ul>
   <li> Todas em Tech Desenvolvedora Back-End da {REPROGRAMA} Desenvolvi a minha primeira API utilizando Nodejs</li>
