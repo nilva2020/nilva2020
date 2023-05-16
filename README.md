@@ -19,35 +19,38 @@
   Eu sou Nilva Pires tenho 51 anos, apaixonada pela área tecnológica.<br />
   Sou mãe de uma linda menina chamada Mel.</br>
   Moro em Belo Horizonte-Mg<br />
-  Dentro dos meus interesses estão:
+  Áreas dos meus interesses estão:
   * Inteligência Artificial;<br />
-  * Robótica;
-  * Análise de Dados.
-</p></br>
-<p align="left"> <b>O  que   estou  fazendo ⭐</p>
-  <li> Facilitadora na oficina de Robótica para o público 6 anos à 12 anos.</li>
-
+  * Robótica;<br />
+  * Análise de Dados;<br />
+  * Python;
+  * Banco de Dados.
   
+</p>
+</br>
+<p align="left"> <b>O  que   estou  fazendo ⭐</p>
+</br>
+  <li> Atuo como educadora na oficina de Robótica para o público 6 anos à 12 anos.</li>
   
 </p><br />
 
 <p align="left" > <b>HARDSKILLS</b>.</p>
-<p align="left" >👩🏻‍🎓 Graduações: Administração de Empresa;
-                    Análise e Desenvolvimento de Sistema;<br />
+<p align="left" >👩🏻‍🎓 Graduações: Administração de Empresa;</br>
+                    Análise e Desenvolvimento de Sistema;</br>
                     Pós em Robótica Educacional.</p>
   
-<p align="left" > <b>Principais Certificações 🚀:
-                     Ciência de Dados - Digital House </b>
-                     Desenvolvedora Back-End - Reprograma
+<p align="left" > <b>Principais Certificações 🚀:</br>
+                     Ciência de Dados - Digital House </br>
+                     Desenvolvedora Back-End - Reprograma</br>
                      Desenvolvedora Chatbot com NLU - Smarkio do Brasil </p>
                      
 <p align="left" >O que estou estudando 📚:</p>
 <p align="left" >
 <ul>
-  <li> Ciência da Computação - 5° semestre - Estácio</li>
-  <li> Inteligência Artificial - Data Science Academy </li>
-  <li> Data Science - Digital House </li>
-  <li> Python - Data Science Academy </li>
+  <li> Ciência da Computação - 5° semestre - Estácio</li></br>
+  <li> Inteligência Artificial - Data Science Academy </li></br>
+  <li> Data Science - Digital House </li></br>
+  <li> Python - Data Science Academy </li></br>
 
 </ul></p></br>
 
@@ -66,11 +69,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg" alt="Jquery" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="PHP" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
 <img src="https://i.ibb.co/qRxV2fK/download.png" alt="vscode" width="40" height="40"/>
-
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilva2020" alt="Nilva-Pires" /> </p>
 
