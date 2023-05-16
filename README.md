@@ -35,7 +35,8 @@
 </p><br />
 
 <p align="left" > <b>HARDSKILLS</b>.</p>
-<p align="left" >👩🏻‍🎓 Graduações: Administração de Empresa;</br>
+<p align="left" >👩🏻‍🎓 Graduações:</br>
+                    Administração de Empresa;</br>
                     Análise e Desenvolvimento de Sistema;</br>
                     Pós em Robótica Educacional.</p>
   
