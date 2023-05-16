@@ -16,39 +16,41 @@
 
 
 <p align="left">
-  Eu sou Nilva Pires Analista de Sistema & Desenvolvedora Backend {Reprograma}, apaixonada pela área tecnológica principalmente o desenvolvimento.<br />
+  Eu sou Nilva Pires tenho 51 anos, apaixonada pela área tecnológica.<br />
   Sou mãe de uma linda menina chamada Mel.</br>
   Moro em Belo Horizonte-Mg<br />
-  Dentro dos meus interesses está a Inteligência Artificial.<br />
+  Dentro dos meus interesses estão:
+  * Inteligência Artificial;<br />
+  * Robótica;
+  * Análise de Dados.
 </p></br>
-<p align="left"> <b>O  que   estou  fazendo </p>
-  <li> Educadora Oficina de Robótica para o publico 6anos à 12 anos.</li>
-  <li> Escrevendo um livro para o público infantil utilizando a linguagem Python.  </li>
+<p align="left"> <b>O  que   estou  fazendo ⭐</p>
+  <li> Facilitadora na oficina de Robótica para o público 6 anos à 12 anos.</li>
+
   
   
 </p><br />
 
-<p align="left" > <b> Sobre HARDSKILLS</b>.</p>
-<p align="left" >👩🏻‍🎓 Graduações: Administração de Empresa & Análise e Desenvolvimento de Sistema<br />
-   
+<p align="left" > <b>HARDSKILLS</b>.</p>
+<p align="left" >👩🏻‍🎓 Graduações: Administração de Empresa;
+                    Análise e Desenvolvimento de Sistema;<br />
+                    Pós em Robótica Educacional.</p>
+  
+<p align="left" > <b>Principais Certificações 🚀:
+                     Ciência de Dados - Digital House </b>
+                     Desenvolvedora Back-End - Reprograma
+                     Desenvolvedora Chatbot com NLU - Smarkio do Brasil </p>
+                     
 <p align="left" >O que estou estudando 📚:</p>
 <p align="left" >
 <ul>
-  <li>Ciência da Computação - 5° semestre- Estácio.</li>
-  <li>Inteligência Artificial - Data Science Academy; </li>
-  <li>Data Science - Digital House; </li>
-  <li>Python - Data Science Academy;</li>
+  <li> Ciência da Computação - 5° semestre - Estácio</li>
+  <li> Inteligência Artificial - Data Science Academy </li>
+  <li> Data Science - Digital House </li>
+  <li> Python - Data Science Academy </li>
 
 </ul></p></br>
 
-<p align="left" >🚀 Participei do Bootcamp da Letsbot:<ul>
-  
-  <li> Todas em Tech Desenvolvedora Back-End da {REPROGRAMA} Desenvolvi a minha primeira API utilizando Nodejs</li>
-  
-  <li>🤖 Desenvolvimento de Chatbot com NLU,utilizando a plataforma ALTU; </li>
-  
-  </ul></p>
-<hr />
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1615670651576.png" width="400px" />
 
@@ -71,4 +73,4 @@
 <img src="https://i.ibb.co/qRxV2fK/download.png" alt="vscode" width="40" height="40"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nilva2020" alt="Nilva-Pires" /> </p>
-⭐baseado em  Hérica Strongreen.
+
