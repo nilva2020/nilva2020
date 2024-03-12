@@ -16,22 +16,23 @@
 
 
 <p align="left">
-  Eu sou Nilva Pires tenho 51 anos, apaixonada pela área tecnológica.<br />
+  Eu sou Nilva Pires tenho 52 anos, apaixonada pela área tecnológica, principalmente automação.<br />
   Sou mãe de uma linda menina chamada Mel.</br>
   Moro em Belo Horizonte-Mg<br />
   Áreas dos meus interesses estão:
-  * Inteligência Artificial;<br />
+  * Inteligência Artificial;<br/>
   * Robótica;<br />
+  * Desenvolvimento de proteses;<br/>
   * Análise de Dados;<br />
-  * Python;
+  * Python;<br/>
   * Banco de Dados.
   
 </p>
 </br>
 <p align="left"> <b>O  que   estou  fazendo ⭐</p>
 </br>
-  <li> Atuo como educadora na oficina de Robótica para o público 6 anos à 12 anos.</li>
-  
+  <li> Analista de Sistema na O.S.M-BH e freelance  desenvolvendo paginas webs.</li>
+  <li> Estudo linguagem de Lander </li>
 </p><br />
 
 <p align="left" > <b>HARDSKILLS</b>.</p>
@@ -49,8 +50,6 @@
 <p align="left" >
 <ul>
   <li> Ciência da Computação - 5° semestre - Estácio</li></br>
-  <li> Inteligência Artificial - Data Science Academy </li></br>
-  <li> Data Science - Digital House </li></br>
   <li> Python - Data Science Academy </li></br>
 
 </ul></p></br>
