@@ -17,7 +17,7 @@
 
 <p align="left">
   Eu sou Nilva Pires tenho 52 anos, sou estudiosa na Área tecnológica, além dos cursos mencionados,<br />
-  estou sempre pesquisando e estudando novos conteúdos e atualizações.
+  estou sempre pesquisando e estudando novos conteúdos e atualizações.<br />
   Sou mãe de uma linda menina chamada Mel.</br>
   Moro em Belo Horizonte-Mg<br />
   Áreas dos meus interesses estão:
