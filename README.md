@@ -16,7 +16,8 @@
 
 
 <p align="left">
-  Eu sou Nilva Pires tenho 52 anos, apaixonada pela área tecnológica, principalmente automação.<br />
+  Eu sou Nilva Pires tenho 52 anos, sou estudiosa na Área tecnológica, além dos cursos mencionados,<br />
+  estou sempre pesquisando e estudando novos conteúdos e atualizações.
   Sou mãe de uma linda menina chamada Mel.</br>
   Moro em Belo Horizonte-Mg<br />
   Áreas dos meus interesses estão:
@@ -31,7 +32,7 @@
 </br>
 <p align="left"> <b>O  que   estou  fazendo ⭐</p>
 </br>
-  <li> Analista de Sistema na O.S.M-BH e freelance  desenvolvendo paginas webs.</li>
+  <li> Analista de Sistema na O.S.M-BH e freelance  desenvolvendo páginas webs.</li>
   <li> Estudo linguagem de Lander </li>
 </p><br />
 
@@ -40,6 +41,9 @@
                     Administração de Empresa;</br>
                     Análise e Desenvolvimento de Sistema;</br>
                     Pós em Robótica Educacional.</p>
+
+                    Pós-Graduação:
+                    Robótica Educacional
   
 <p align="left" > <b>Principais Certificações 🚀:</br>
                      Ciência de Dados - Digital House </br>
@@ -51,6 +55,7 @@
 <ul>
   <li> Ciência da Computação - 5° semestre - Estácio</li></br>
   <li> Python - Data Science Academy </li></br>
+  <li> Pós graduação Ciência de Dados -Ipemig</li>
 
 </ul></p></br>
 
